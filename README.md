@@ -6,7 +6,7 @@
 <p>1. development setup</p>
 
 ```
-git clone 
+git clone https://github.com/Alageshwaran04/To-do-List.git
 
 <h2>screenshot:</h2>
 
