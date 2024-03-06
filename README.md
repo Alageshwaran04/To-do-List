@@ -2,4 +2,5 @@
            This is To-do List. Easily add, complete, or mark tasks as incomplete in the To-Do list
 
 <h2>screenshot:</h2>
-![Screenshot (44)](https://github.com/Alageshwaran04/To-do-List/assets/134389764/92dde958-95b3-41c0-844f-fb40f4c09346)
+![todo-list](https://github.com/Alageshwaran04/To-do-List/assets/134389764/f3da0fe5-a15e-4b5b-b50c-14cb46b9acbe)
+
